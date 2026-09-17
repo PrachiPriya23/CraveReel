@@ -1,0 +1,7 @@
+{
+  "name": "CraveReels",
+  "description": "Short-form video food discovery reels, Swiggy vs Zomato vs EatSure live deal comparison, rule-based craving recommendations, and AI Food Advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
