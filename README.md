@@ -7,6 +7,11 @@
 
 </div>
 
+
+## 🎬 CraveReel App Demo
+
+https://github.com/user-attachments/assets/dd49212d-3725-4108-9561-f04fba27ac54
+
 ## 🚀 Project Overview
 CraveReels is an AI-powered food discovery and price comparison application designed to make food ordering smarter, faster, and more affordable. It combines short-form food reels, AI-powered food recommendations, and multi-platform price comparison to help users discover their favourite meals and find the best available deals. Instead of switching between multiple food delivery applications, users can explore food, compare prices, discover discounts, and make smarter ordering decisions in one place.
 
