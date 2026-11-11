@@ -194,4 +194,13 @@ Traditional food delivery applications primarily focus on ordering food. CraveRe
 **Discover More. Compare Better. Save Smarter.**
 
 
+## 📄 Project Documentation
+
+| Document | Download |
+|---|---|
+| MAD Review - 1 | [View PDF](./MAD%20Review%20-1.pdf) |
+| MAD Review - 2 | [View PDF](./MAD%20Review%20-2.pdf) |
+
+
+
 
